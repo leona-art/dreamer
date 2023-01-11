@@ -6,7 +6,7 @@
       ],
       "files": ["*.ts", "*.tsx"],
       "parserOptions": {
-        "project": "dreamer/tsconfig.json"
+        "project": "tsconfig.json"
       }
     }
   ],
